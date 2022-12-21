@@ -2,8 +2,8 @@ import os
 import sys
 import time
 import openai
-openai.api_key = "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"
-os.environ["OPENAI_API_KEY"] = "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"
+openai.api_key = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 #브라우저
 from selenium import webdriver
